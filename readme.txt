@@ -13,10 +13,11 @@ See which visitors ended up calling you, no coding required. Automated delivery 
 The Freespee Call Tracking plugin dynamically displays a phone number on your Wordpress site. Every phone call made by your visitors is turned into useful data. With the flip of a switch you deliver this phone call data to your Google Analytics account to see what keyword and Ad that drove the phone call.
 
 Some of the features:
-* Link phone calls made by your online visitors to their source (Google SEM, Facebook, etc).
-* View the full online user journey including phone calls.
-* Feed call data into 3rd party platforms, like Google Analytics or Google AdWords. [Full list here!](http://freespee.com/plugin-gallery)
-* For more information please visit [Freespee.com](http://freespee.com/).
+
+*  Link phone calls made by your online visitors to their source (Google SEM, Facebook, etc).
+*  View the full online user journey including phone calls.
+*  Feed call data into 3rd party platforms, like Google Analytics or Google AdWords. [Full list here!](http://freespee.com/plugin-gallery)
+*  For more information please visit [Freespee.com](http://freespee.com/).
 
 This plugin works in USA, Canada and Europe.
 
@@ -24,11 +25,11 @@ PS: You will need an [Freespee.com customer ID](http://freespee.com/sign-up/basi
 
 == Installation ==
 
-* Install and activate the plugin.
-* Create your account at [Freespee.com](http://freespee.com/sign-up/basic).
-* Grab your customer ID from the Freespee account settings.
-* Go to the "Freespee" menu under "Settings" in WordPress admin and enter you Customer ID.
-* You're done!
+*  Install and activate the plugin.
+*  Create your account at [Freespee.com](http://freespee.com/sign-up/basic).
+*  Grab your customer ID from the Freespee account settings.
+*  Go to the "Freespee" menu under "Settings" in WordPress admin and enter you Customer ID.
+*  You're done!
 
 == Frequently Asked Questions ==
 = How do I get started? =
